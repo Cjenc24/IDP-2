@@ -1,0 +1,8 @@
+What I learned?
+I learned how to use the style.css file and improved my skills working with conditionals. I could have used loops to limit the amount of times I had to type the jokes/repsones (in if statements) in but ultimately I did not have the time to make this adjustment and the program accomplishes my goal regardless. Since style.css, has not been used a lot within our projects, It was really important to me to understand how to operate it which eventually allowed me to use it for the format and design of the page. I learned how to incorporate buttons and attatch those to my conditional statements. In order to get the code working, it also required that I work in the .html section, which was something that I have not had the opprotunity to edit in other projects.
+
+Revisions?
+I did not end up revising this project a lot because of a lack of time. However, if I were to revise it more , I would simplify the code and incorporate loops to make the joke telling more simple. I would have to figure out how to keep the questions and responses linked. But what I ended up doing was rephrasing some of the statements/questions to make the program more easily understood to its users. 
+
+What I didn't know the 1st time?
+Going into this project, I had for the most part just begun working on loops and was not yet ready to put them into the project. However, I feel the project was a strong representation of where I was when making it. 

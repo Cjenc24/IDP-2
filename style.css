@@ -1,0 +1,23 @@
+
+button{
+  color: orange;
+  back
+   border-style: double;
+   border-color: black;
+}
+h1{
+  font-family: 'Creepster';
+}
+h2{
+  font-family:papyrus;
+  border-style: dotted;
+}
+body{
+  text-align:center;
+  margin:auto;
+  color: black;
+  
+}
+body {background-color: darkslateblue;}
+p{
+  font-family: "Lucida Console", "Courier New", monospace;}
